@@ -1,1 +1,1 @@
-web: gunicorn webbok.wsgi --log-file
+web: gunicorn webbok.wsgi --log-file-
